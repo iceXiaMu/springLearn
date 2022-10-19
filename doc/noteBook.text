@@ -1,0 +1,4 @@
+1、BeanDefinition类,由定义一个Object对象换成定义一个Class,这样就可以把Bean的实例化操作换到容器中处理了
+2、SingletonBeanRegistry接口,单例获取对象接口
+
+接口定义了注册，抽象类定义了获取
